@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "NC_001796.vadr.protein.fa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "/data/vadr-models-hpiv/hpiv3//NC_001796.vadr.protein.fa",
+  "number-of-letters": 6761,
+  "number-of-sequences": 11,
+  "last-updated": "2024-11-18T22:22:00",
+  "number-of-volumes": 1,
+  "bytes-total": 45079,
+  "bytes-to-cache": 7021,
+  "files": [
+    "NC_001796.vadr.protein.fa.pdb",
+    "NC_001796.vadr.protein.fa.phr",
+    "NC_001796.vadr.protein.fa.pin",
+    "NC_001796.vadr.protein.fa.pot",
+    "NC_001796.vadr.protein.fa.psq",
+    "NC_001796.vadr.protein.fa.ptf",
+    "NC_001796.vadr.protein.fa.pto"
+  ]
+}

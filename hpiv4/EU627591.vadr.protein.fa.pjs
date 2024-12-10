@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "EU627591.vadr.protein.fa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "/data/vadr-models-hpiv/hpiv4//EU627591.vadr.protein.fa",
+  "number-of-letters": 5536,
+  "number-of-sequences": 8,
+  "last-updated": "2024-12-10T20:48:00",
+  "number-of-volumes": 1,
+  "bytes-total": 43480,
+  "bytes-to-cache": 5761,
+  "files": [
+    "EU627591.vadr.protein.fa.pdb",
+    "EU627591.vadr.protein.fa.phr",
+    "EU627591.vadr.protein.fa.pin",
+    "EU627591.vadr.protein.fa.pot",
+    "EU627591.vadr.protein.fa.psq",
+    "EU627591.vadr.protein.fa.ptf",
+    "EU627591.vadr.protein.fa.pto"
+  ]
+}
