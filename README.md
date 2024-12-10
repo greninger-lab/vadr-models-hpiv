@@ -26,7 +26,7 @@ Steps for using VADR for HPIV annotation:
 2. Clone the latest HPIV VADR model library from this repository (current release v1.0)<br/>
    `git clone git@github.com:greninger-lab/vadr-models-hpiv.git`<br/>
    or download the current release from [here](https://github.com/greninger-lab/vadr-models-hpiv/releases/tag/v1.0).</br>
-   Note the path to the directory name created plus the specific  
+   Note the path to the directory name created plus the specific type
    subdirectory (e.g. /path/to/vadr-models-hpiv/hpiv2) as `<hpiv-models-dir-path>`
    for step 4.
 
@@ -43,7 +43,7 @@ $VADRSCRIPTSDIR/miniscripts/fasta-trim-terminal-ambigs.pl --minlen 50 --maxlen 1
 ```        
 
 4. Run the `v-annotate.pl` program on an input trimmed fasta file with
-   HPIV sequences using the recommended command below. <hpiv-key> must be 
+   HPIV sequences using the recommended command below. `<hpiv-key>` must be 
    "hpiv1", "hpiv2", "hpiv3", or "hpiv4" (e.g. --mkey hpiv3 --mdir /path/to/vadr-models-hpiv/hpiv3).  
 
 ```
