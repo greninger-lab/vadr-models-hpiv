@@ -2,7 +2,7 @@
 
 ## [How to annotate HPIV sequences with VADR](#howto)
 
-## [HPIV VADR model library](#hpivmodels)
+## [HPIV VADR model libraries](#hpivmodels)
 
 ## [Additional VADR documentation](#docs)
 
@@ -61,7 +61,7 @@ v-annotate.pl -r --mkey <hpiv-key> --mdir <hpiv-models-dir-path> <fasta-file-to-
    documentation here: https://github.com/ncbi/vadr/blob/master/documentation/annotate.md
 
 ---
-## <a name="hpivmodels"></a>HPIV VADR models
+## <a name="hpivmodels"></a>HPIV VADR model libraries
 * The VADR model libraries for HPIV annotation include models for types HPIV1, HPIV2, HPIV3, and HPIV4 (subtypes a and b).
 ---
 
