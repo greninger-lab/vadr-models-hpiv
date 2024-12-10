@@ -44,7 +44,7 @@ $VADRSCRIPTSDIR/miniscripts/fasta-trim-terminal-ambigs.pl --minlen 50 --maxlen 1
 
 4. Run the `v-annotate.pl` program on an input trimmed fasta file with
    HPIV sequences using the recommended command below. `<hpiv-key>` must be 
-   "hpiv1", "hpiv2", "hpiv3", or "hpiv4" (e.g. --mkey hpiv3 --mdir /path/to/vadr-models-hpiv/hpiv3).  
+   hpiv1, hpiv2, hpiv3, or hpiv4 and associated with the correct --mdir type directory (e.g. --mkey hpiv3 --mdir /path/to/vadr-models-hpiv/hpiv3).  
 
 ```
 v-annotate.pl -r --mkey <hpiv-key> --mdir <hpiv-models-dir-path> <fasta-file-to-annotate> <output-directory-to-create>
