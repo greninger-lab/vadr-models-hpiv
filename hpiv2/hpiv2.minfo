@@ -2,7 +2,7 @@ MODEL NC_003443 blastdb:"NC_003443.vadr.protein.fa" cmfile:"NC_003443.vadr.cm" l
 FEATURE NC_003443 type:"gene" coords:"157..1785:+" parent_idx_str:"GBNULL" gene:"N"
 FEATURE NC_003443 type:"CDS" coords:"157..1785:+" parent_idx_str:"GBNULL" gene:"N" product:"nucleocapsid protein"
 FEATURE NC_003443 type:"gene" coords:"1993..3178:+" parent_idx_str:"GBNULL" gene:"P"
-FEATURE NC_003443 type:"CDS" coords:"1993..2481:+,2480..3178:+" parent_idx_str:"GBNULL" gene:"P" product:"phosphoprotein" canon_splice_sites:"1" exception:"RNA editing" fst_exc:"2939..2946:+"
+FEATURE NC_003443 type:"CDS" coords:"1993..2481:+,2480..3178:+" parent_idx_str:"GBNULL" gene:"P" product:"phosphoprotein" canon_splice_sites:"1" exception:"ribosomal slippage" fst_exc:"2939..2946:+"
 FEATURE NC_003443 type:"CDS" coords:"1993..2670:+" parent_idx_str:"GBNULL" gene:"P" product:"V protein" note:"zinc-binding cysteine-rich"
 FEATURE NC_003443 type:"gene" coords:"3479..4612:+" parent_idx_str:"GBNULL" gene:"M"
 FEATURE NC_003443 type:"CDS" coords:"3479..4612:+" parent_idx_str:"GBNULL" gene:"M" product:"matrix protein"
