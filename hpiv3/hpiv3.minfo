@@ -5,7 +5,7 @@ FEATURE NC_001796 type:"gene" coords:"1784..3595:+" parent_idx_str:"GBNULL" gene
 FEATURE NC_001796 type:"gene" coords:"1784..3592:+" parent_idx_str:"GBNULL" gene:"P" alternative_ftr_set:"phospho(gene)" alternative_ftr_set_subn:"phospho(cds).2"
 FEATURE NC_001796 type:"CDS" coords:"1784..3595:+" parent_idx_str:"GBNULL" gene:"P" product:"phosphoprotein" alternative_ftr_set:"phospho(cds)"
 FEATURE NC_001796 type:"CDS" coords:"1784..3592:+" parent_idx_str:"GBNULL" gene:"P" product:"phosphoprotein" alternative_ftr_set:"phospho(cds)"
-FEATURE NC_001796 type:"CDS" coords:"1784..2509:+,2508..2903:+" parent_idx_str:"GBNULL" gene:"P" product:"D protein" canon_splice_sites:"1" exception:"ribosomal slippage"
+FEATURE NC_001796 type:"CDS" coords:"1784..2509:+,2508..2903:+" parent_idx_str:"GBNULL" gene:"P" product:"D protein" canon_splice_sites:"1" exception:"ribosomal slippage" note:"modified by co-transcriptional insertion of non-templated G"
 FEATURE NC_001796 type:"CDS" coords:"1794..2393:+" parent_idx_str:"GBNULL" gene:"P" product:"C protein" alternative_ftr_set:"C(cds)"
 FEATURE NC_001796 type:"CDS" coords:"1794..2390:+" parent_idx_str:"GBNULL" gene:"P" product:"C protein" alternative_ftr_set:"C(cds)"
 FEATURE NC_001796 type:"gene" coords:"3753..4814:+" parent_idx_str:"GBNULL" gene:"M"
