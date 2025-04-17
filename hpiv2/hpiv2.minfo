@@ -3,7 +3,7 @@ FEATURE NC_003443 type:"gene" coords:"157..1785:+" parent_idx_str:"GBNULL" gene:
 FEATURE NC_003443 type:"CDS" coords:"157..1785:+" parent_idx_str:"GBNULL" gene:"N" product:"nucleocapsid protein"
 FEATURE NC_003443 type:"gene" coords:"1993..3178:+" parent_idx_str:"GBNULL" gene:"P"
 FEATURE NC_003443 type:"CDS" coords:"1993..2481:+,2480..3178:+" parent_idx_str:"GBNULL" gene:"P" product:"phosphoprotein" canon_splice_sites:"1" exception:"ribosomal slippage" note:"modified by co-transcriptional insertion of non-templated G" fst_exc:"2939..2946:+"
-FEATURE NC_003443 type:"CDS" coords:"1993..2670:+" parent_idx_str:"GBNULL" gene:"P" product:"V protein" note:"zinc-binding cysteine-rich"
+FEATURE NC_003443 type:"CDS" coords:"1993..2670:+" parent_idx_str:"GBNULL" gene:"P" product:"V protein"
 FEATURE NC_003443 type:"gene" coords:"3479..4612:+" parent_idx_str:"GBNULL" gene:"M"
 FEATURE NC_003443 type:"CDS" coords:"3479..4612:+" parent_idx_str:"GBNULL" gene:"M" product:"matrix protein"
 FEATURE NC_003443 type:"gene" coords:"4789..6444:+" parent_idx_str:"GBNULL" gene:"F"
