@@ -58,7 +58,7 @@ In addition, `<hpiv-key>` must indicate the HPIV species hpiv1, hpiv2, hpiv3, or
 v-annotate.pl -r --mkey <hpiv-key> --mdir <hpiv-models-dir-path> <fasta-file-to-annotate> <output-directory-to-create>
 ```
 
-After running the `v-annotate.pl` command in step 4, there will be a number of files generated in the `<output-directory-to-create>`. Among these files, there are 5-column tab-delimited feature table files that end with the suffix `.tbl`. There is a separate file for passing (`XXXXX.vadr.pass.tbl`) and failing (`XXXXX.vadr.fail.tbl`) sequences.
+After running the `v-annotate.pl`, there will be a number of files generated in the `<output-directory-to-create>`. Among these files, there are 5-column tab-delimited feature table files that end with the suffix `.tbl`. There is a separate file for passing (`XXXXX.vadr.pass.tbl`) and failing (`XXXXX.vadr.fail.tbl`) sequences.
 The format of the `.tbl` files is described here: https://www.ncbi.nlm.nih.gov/genbank/feature_table/
 
    More information about understanding failures and error alerts can be found in the VADR documentation here: https://github.com/ncbi/vadr/blob/master/documentation/annotate.md
@@ -107,7 +107,5 @@ The format of the `.tbl` files is described here: https://www.ncbi.nlm.nih.gov/g
   validation and annotation of virus sequence submissions to
   GenBank.* BMC Bioinformatics 21, 211
   (2020). https://doi.org/10.1186/s12859-020-3537-3
-
-* This page was adapted for HPIV from [Mpox virus annotation](https://github.com/ncbi/vadr/wiki/Mpox-virus-annotation)
 
 ---
