@@ -1,4 +1,4 @@
-MODEL NC_001796 blastdb:"NC_001796.vadr.protein.fa" cmfile:"NC_001796.vadr.cm" length:"15462" lowsim_exc:"15453..15462:+,0..48:+,0..49:+,24..49:+,24..50:+"
+MODEL NC_001796 blastdb:"NC_001796.vadr.protein.fa" cmfile:"NC_001796.vadr.cm" group:"HPIV3" length:"15462" lowsim_exc:"15453..15462:+,0..48:+,0..49:+,24..49:+,24..50:+"
 FEATURE NC_001796 type:"gene" coords:"111..1658:+" parent_idx_str:"GBNULL" gene:"N"
 FEATURE NC_001796 type:"CDS" coords:"111..1658:+" parent_idx_str:"GBNULL" gene:"N" product:"nucleocapsid protein"
 FEATURE NC_001796 type:"gene" coords:"1784..3595:+" parent_idx_str:"GBNULL" gene:"P" alternative_ftr_set:"phospho(gene)" alternative_ftr_set_subn:"phospho(cds).1"
