@@ -1,4 +1,4 @@
-MODEL NC_003461 blastdb:"NC_003461.vadr.protein.fa" cmfile:"NC_003461.vadr.cm" length:"15600"
+MODEL NC_003461 blastdb:"NC_003461.vadr.protein.fa" cmfile:"NC_003461.vadr.cm" group:"HPIV1" length:"15600"
 FEATURE NC_003461 type:"gene" coords:"120..1694:+" parent_idx_str:"GBNULL" gene:"N"
 FEATURE NC_003461 type:"CDS" coords:"120..1694:+" parent_idx_str:"GBNULL" gene:"N" product:"nucleocapsid protein"
 FEATURE NC_003461 type:"gene" coords:"1844..3550:+" parent_idx_str:"GBNULL" gene:"P" alternative_ftr_set:"phospho(gene)" alternative_ftr_set_subn:"phospho(cds).1"
